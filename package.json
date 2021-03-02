@@ -1,0 +1,20 @@
+{
+  "name": "-pushup",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "sass": "^1.32.8",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "gulp sass",
+    "watch": "gulp watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
