@@ -17,9 +17,31 @@
     width: 50%;
     margin: 0 auto; }
     .mainContainer .imageWrapper img {
-      width: 200px;
-      height: 200px;
+      width: 75%;
+      height: 30%;
       background-color: #660000;
       border-radius: 50%;
-      box-shadow: 1px -1px 20px #ffffff;
+      box-shadow: 1px -1px 7px #ffffff;
       margin-top: -15px; }
+  .mainContainer .totalCounter {
+    background-color: #333333;
+    width: 10%;
+    height: 1%;
+    font-size: 50px;
+    text-align: center;
+    margin: 50px auto;
+    color: #ffffff; }
+  .mainContainer .startButton {
+    width: 42%;
+    height: 28%;
+    border-radius: 50%;
+    background-color: seagreen;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 40px;
+    margin: 20% auto;
+    display: block;
+    border: 8px black;
+    outline: 0;
+    box-shadow: 1px -1px 7px #ffffff;
+    color: #ffffff; }
