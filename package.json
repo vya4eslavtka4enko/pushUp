@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "gulpfile.js",
   "dependencies": {
+    "firebase": "^8.2.9",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.1.0",
     "sass": "^1.32.8",
