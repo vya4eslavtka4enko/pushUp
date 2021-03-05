@@ -76,4 +76,30 @@
     align-items: center;
     font-family: sans-serif;
     color:white;
+    #numberOfRepetition{
+        background:none;
+    }
+    #timer{
+        background:none;
+        display:none;
+        font-size: 55%;
+    }
+}
+.advice{
+    background:none;
+    width: 95%;
+    color:white;
+    margin: 0 auto;
+    font-family:sans-serif;
+    text-align:center;
+}
+.addTime{
+    display: block;
+    width: 10%;
+    background:none;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    margin-top: 100px;
 }
